@@ -1,1 +1,4 @@
-hello i want to know the git
+hello i want to know the giti
+i have pulled it 
+and now i want to push again
+
